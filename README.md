@@ -1,5 +1,5 @@
 اپلیکیشن لیست کارها (Todo List)  دیدن آنلاین https://magenta-dasik-3fdaf9.netlify.app/
-                                                                               [!gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW44aTA5cWptYmRvNW8zaHp4ZnljY251eXljZjB1cmY5MW90cDYxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IdCTDUtGcWpvOgXSCE/giphy.gif)
+![gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW44aTA5cWptYmRvNW8zaHp4ZnljY251eXljZjB1cmY5MW90cDYxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IdCTDUtGcWpvOgXSCE/giphy.gif)
 
 ## 🚀 امکانات
 
